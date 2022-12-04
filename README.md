@@ -1,5 +1,5 @@
 # Peenk-Spoofer-V4
-PEENK SPOOFER 4EVER #FreeGunn #FreeThugger #FreeYSL
+PEENK SPOOFER 4EVER #FreeGunna #FreeThugger #FreeYSL
 
 Peenk Spoofer is a Fortnite Battle Royale/Creative Spoofer.
 
