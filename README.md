@@ -1,6 +1,8 @@
 # Peenk-Spoofer-V4
 PEENK SPOOFER 4EVER #FreeGunna #FreeThugger #FreeYSL
 
+![](https://i.ibb.co/b6xVmdj/ps4e-banner.png)
+
 Peenk Spoofer is a Fortnite Battle Royale/Creative Spoofer.
 
 ## Prerequisites:
@@ -8,6 +10,13 @@ Peenk Spoofer is a Fortnite Battle Royale/Creative Spoofer.
 - [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
 - [WinRAR](https://www.win-rar.com/download.html?&L=0) **OR** [7z](https://www.7-zip.org/a/7z2201-x64.exe)
 - Windows 10 or higher (Press Windows Key and type "winver" then press enter to check OS)
+
+## How To Use
+- 1. Make sure you have all the prerequisites installed on your device.
+- 2. go to the releases page (linked below) and download the .zip file
+- 3. Extract the .zip file (YOU CANNOT OPEN THE EXE IF IT ISNT EXTRACTED)
+- 4. Run Peenk Spoofer V4.exe (The one with the black and pink icon)
+- 5. Spoof!
 
 ## Included in Spoofer:
 
@@ -18,8 +27,6 @@ Peenk Spoofer is a Fortnite Battle Royale/Creative Spoofer.
 - Fortnite Game Optimizer (Boosts Performance)
 
 Releases Page: https://github.com/PeenkLion/Peenk-Spoofer-V4/releases
-
-![](https://i.ibb.co/b6xVmdj/ps4e-banner.png)
 
 ## FAQ
 
