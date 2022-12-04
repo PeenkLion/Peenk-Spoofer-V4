@@ -9,4 +9,6 @@ Peenk Spoofer is a Fortnite Battle Royale/Creative Spoofer.
 - Regedit Cleaner
 - Fortnite Game Optimizer (Boosts Performance)
 
+Releases Page: https://github.com/PeenkLion/Peenk-Spoofer-V4/releases
+
 ![](https://i.ibb.co/b6xVmdj/ps4e-banner.png)
