@@ -22,3 +22,9 @@ Releases Page: https://github.com/PeenkLion/Peenk-Spoofer-V4/releases
 ![](https://i.ibb.co/b6xVmdj/ps4e-banner.png)
 
 ## FAQ
+
+- There is an error with some music player/sound/audio going on.
+- **Your Windows Version is probably not up to date.**
+
+- It is saying I need a key
+- **You must buy a key before having full access to the program**
